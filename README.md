@@ -1,10 +1,6 @@
 
 # Microservices en Spring Boot : Produits et Achat
 
-Ce projet comprend deux microservices distincts en Spring Boot : **Produits** et **Achat**. Le système est conçu pour gérer les informations sur les produits en Euros (EUR) et permet des achats dans différentes devises. Le microservice **Achat** fournit une conversion de devises en temps réel grâce à l' [API des Taux de Change](https://www.exchangerate-api.com/), et les deux services interagissent via **WebClient**.
-
-## Les microservices
-
 ### Microservice Produits
 - **Port** : `8083`
 - **Objectif** : Ce microservice est responsable de la gestion des opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) liées aux produits.
