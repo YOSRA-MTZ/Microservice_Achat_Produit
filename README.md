@@ -21,5 +21,11 @@
      - `GET /api/products/{id}` : Récupérer un produit spécifique par son ID.
      - `PUT /api/products/{id}` : Modifier un produit existant.
      - `DELETE /api/products/{id}` : Supprimer un produit en utilisant son ID.
-
+### Technologies utilisées
+- `Spring Boot` : Framework pour le développement de microservices.
+- `Spring WebFlux` : Pour intégrer un WebClient réactif et non-bloquant.
+- `Spring Data JPA` : Pour gérer les interactions avec la base de données dans le microservice Produits.
+- `MySQL` : Base de données en mémoire utilisée pour le développement et les tests.
+- `Exchange Rate API`: : Un service tiers pour les taux de change en temps réel.
+- 
 Réalisé par : YOSRA MOUMTAZ
