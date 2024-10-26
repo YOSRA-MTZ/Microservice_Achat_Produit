@@ -27,5 +27,5 @@
 - `Spring Data JPA` : Pour gérer les interactions avec la base de données dans le microservice Produits.
 - `MySQL` : Base de données en mémoire utilisée pour le développement et les tests.
 - `Exchange Rate API`: : Un service tiers pour les taux de change en temps réel.
-- 
+  
 Réalisé par : YOSRA MOUMTAZ
